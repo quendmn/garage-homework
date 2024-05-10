@@ -1,0 +1,8 @@
+C:\Users\aleks\source\repos\c#\дз - гараж\bin\Debug\дз - гараж.exe.config
+C:\Users\aleks\source\repos\c#\дз - гараж\bin\Debug\дз - гараж.exe
+C:\Users\aleks\source\repos\c#\дз - гараж\bin\Debug\дз - гараж.pdb
+C:\Users\aleks\source\repos\c#\дз - гараж\obj\Debug\дз - гараж.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\c#\дз - гараж\obj\Debug\дз - гараж.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\source\repos\c#\дз - гараж\obj\Debug\дз - гараж.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\c#\дз - гараж\obj\Debug\дз - гараж.exe
+C:\Users\aleks\source\repos\c#\дз - гараж\obj\Debug\дз - гараж.pdb
